@@ -1,2 +1,2 @@
-# animatedTextGitDemo_V2
-This is a demo with Colt Steele.
+# Animated Text Git Demo
+This is a silly demo repo to demonstrate Git/GitHub repo with Colt Steele.
